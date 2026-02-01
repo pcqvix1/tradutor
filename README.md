@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://github.com/DogeNetwork/dogeub/blob/main/public/logo.svg" width="322" />
+  <img src="https://github.com/DogeNetwork/tradutor/blob/main/public/logo.svg" width="322" />
   <br />
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I81MF4CH) ![](https://dcbadge.limes.pink/api/server/https://discord.gg/unblocking?compact=true)
 
 
   <hr />
-  DogeUB (Doge Unblocker) version 5 is finally here!
+  Tradutor version 5 is finally here!
 
   
   <br />
@@ -20,7 +20,7 @@
 
 ## Overview
 
-DogeUB is a web proxy frontend / internet browsing hub, allowing you to surf the web anonymously while providing a full suite of apps and games, built with [React](https://github.com/facebook/react).
+Tradutor is a web proxy frontend / internet browsing hub, allowing you to surf the web anonymously while providing a full suite of apps and games, built with [React](https://github.com/facebook/react).
 
 > [!IMPORTANT]
 > Please consider starring our repository if you are forking it!
@@ -46,8 +46,8 @@ DogeUB is a web proxy frontend / internet browsing hub, allowing you to surf the
 
 #### Production:
 ```bash
-git clone https://github.com/DogeNetwork/dogeub.git
-cd dogeub
+git clone https://github.com/DogeNetwork/tradutor.git
+cd tradutor
 npm i
 npm run build
 node server.js
@@ -56,8 +56,8 @@ node server.js
 #### Development:
 
 ```bash
-git clone https://github.com/DogeNetwork/dogeub.git
-cd dogeub
+git clone https://github.com/DogeNetwork/tradutor.git
+cd tradutor
 npm i
 npm run dev
 ```
